@@ -73,9 +73,7 @@ German Credit Risk Dataset
 
 **Vercel Link**
 
-https://your-vercel-link.vercel.app
-
-*(Replace with your deployed Vercel URL.)*
+https://credit-risk-classification-system-8.vercel.app/
 
 ## 📄 License
 
